@@ -1,4 +1,4 @@
-![Deskripsi Alternatif](gambar.png)
+![Deskripsi Alternatif](gambar.jpg)
 <h1 align="center">Hi 👋, I'm Neoliovolty</h1>
 <h3 align="center">A passionate frontend developer from Mars</h3>
 

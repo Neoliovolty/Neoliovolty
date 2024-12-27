@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://youtu.be/zo2xYGSdI3M?si=qeGlCK_sOgfBHX5h" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Tonton Video di YouTube](https://youtu.be/zo2xYGSdI3M?si=qeGlCK_sOgfBHX5h)
 <h1 align="center">Hi 👋, I'm Neoliovolty</h1>
 <h3 align="center">A passionate frontend developer from Mars</h3>
 

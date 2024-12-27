@@ -1,4 +1,4 @@
-[![Tonton Video](https://img.youtube.com/vi/zo2xYGSdI3M/0.jpg)](https://youtu.be/zo2xYGSdI3M?si=qeGlCK_sOgfBHX5h)
+![Deskripsi Alternatif](gambar.png)
 <h1 align="center">Hi 👋, I'm Neoliovolty</h1>
 <h3 align="center">A passionate frontend developer from Mars</h3>
 
